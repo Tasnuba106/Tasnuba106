@@ -49,7 +49,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="left">
   
-  ![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20)          ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
+  ![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20) ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
 
 </div>
 
