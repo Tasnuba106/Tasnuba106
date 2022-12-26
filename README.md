@@ -47,15 +47,15 @@
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<div class="stats" align="left">
   
- ![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&show_icons=true&theme=transparent)
+  ![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20)          ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-  
 </div>
+
+ <div class="stats" align="center">
+   
+   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+   
+  </div>
 <!--  End Stats Cards -->
