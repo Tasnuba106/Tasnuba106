@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Nirjana</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Tasnuba</h1>
 <h3 align="center">A front-end developer from Bangladesh who is enthusiastic</h3>
 
 <p align="center">
@@ -49,7 +49,9 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Tasnuba Khanam Nirjana's GitHub Status](https://github-readme-stats.vercel.app/api?username=Tasnuba106&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+  
+ ![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&show_icons=true&theme=transparent)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
 
