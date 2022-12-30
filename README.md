@@ -4,14 +4,15 @@
 
 
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Tasnuba</h1>
-<h3 align="center">A front-end developer from Bangladesh who is enthusiastic</h3>
+<h3 align="center">A Programmer from Bangladesh who is enthusiastic</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/keilw4TvGlMAAAAC/thinking-smiley-emoji-thinking.gif" width="190">
-
+  <img src="https://media.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif" width="160">
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s">
+
+<!-- <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"> -->
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
