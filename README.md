@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="890">
-<!-- <a href="https://ibb.co/LzjLpzN"><img src="https://i.ibb.co/zh9yfh6/github-header-image-1.png" alt="github-header-image-1" border="0" width="700"</a> -->
 </p>
 
 
@@ -11,7 +10,8 @@
   <img src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s" width="260">
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s">
+<!-- <a href="https://ibb.co/LzjLpzN"><img src="https://i.ibb.co/zh9yfh6/github-header-image-1.png" alt="github-header-image-1" border="0" width="700"</a>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s">
 <img src="https://media.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif" width="160">
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"> -->
 
@@ -51,11 +51,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
   
-  ![Tasnuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&show_icons=true&theme=algolia&border_radius=20)
    
   </div>
 <!--  End Stats Cards -->
