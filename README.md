@@ -55,7 +55,7 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&show_icons=true&theme=algolia&border_radius=20)
    
   </div>
 <!--  End Stats Cards -->
