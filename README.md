@@ -56,6 +56,7 @@
   ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_private=true&theme=algolia&border_radius=20)
   
   ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-   
+  
+  [![Tasnuba106's GitHub stats](https://stats.quine.sh/Tasnuba106/github)](https://quine.sh)
   </div>
 <!--  End Stats Cards -->
