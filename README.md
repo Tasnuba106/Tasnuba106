@@ -49,14 +49,21 @@
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
+<br clear="both">
+
 <div class="stats" align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&count_publice=true&show_icons=true&theme=algolia&border_radius=20) 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&show_icons=true&locale=en&theme=algolia&border_radius=20) 
+  
+  <!--<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&&border_radius=20&username=Tasnuba106" alt="stats graph"/>-->
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_public=true&theme=algolia&border_radius=20)
   
-  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&locale=en&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=algolia&hide_border=false&username=Tasnuba" height="150" alt="languages graph"  />-->
   
   [![Tasnuba106's GitHub stats](https://stats.quine.sh/Tasnuba106/github)](https://quine.sh)
+
   </div>
 <!--  End Stats Cards -->
