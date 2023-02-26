@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="920">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1020">
 </p>
 
 
@@ -53,15 +53,11 @@
 
 <div class="stats" align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasnuba106&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&show_icons=true&locale=en&theme=algolia&border_radius=20) 
-  
-  <!--<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&&border_radius=20&username=Tasnuba106" alt="stats graph"/>-->
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&border_radius=20&username=Tasnuba106" alt="stats graph"/>
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_public=true&theme=algolia&border_radius=20)
   
   ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&locale=en&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-  
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=algolia&hide_border=false&username=Tasnuba" height="150" alt="languages graph"  />-->
   
   [![Tasnuba106's GitHub stats](https://stats.quine.sh/Tasnuba106/github)](https://quine.sh)
 
