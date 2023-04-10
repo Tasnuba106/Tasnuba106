@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Tasnuba</h1>
-<h3 align="center">A Enthusiatic Programmer</h3>
+<h3 align="center">An Enthusiatic Programmer</h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s" width="260">
