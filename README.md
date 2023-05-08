@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **nirjona48829@gmail.com**
 
-- ⚡ Fun fact **Introvert <img src="https://toppng.com/uploads/preview/transparent-glasses-emoji-11552297550jxmrxgq9jt.png" height="20" width="20" />*
+- ⚡ Fun fact **Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
