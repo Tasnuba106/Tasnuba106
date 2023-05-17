@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me Tasnuba</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="30">, It's me 𝓣𝓪𝓼𝓷𝓾𝓫𝓪</h1>
 <h3 align="center">An Enthusiatic Programmer</h3>
 
 <p align="center">
