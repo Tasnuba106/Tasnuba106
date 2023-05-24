@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Python,Javascript,Html,Css,etc.**
 
-- 🤝 I’m looking for help with **Android App**
+- 🤝 I’m looking for help with **Artificial Intelligence**
 
 - 💬 Ask me about **Python**
 
