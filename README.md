@@ -7,7 +7,7 @@
 <h3 align="center">An Enthusiatic Programmer</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s" width="260">
+  <img src="https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b9521df2da746ec4808d068ed0b593728cf022b582c1&rid=giphy.gif&ct=s" width="190">
 </p>
 
 <!-- <a href="https://ibb.co/LzjLpzN"><img src="https://i.ibb.co/zh9yfh6/github-header-image-1.png" alt="github-header-image-1" border="0" width="700"</a>
