@@ -59,7 +59,8 @@
   
   ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&locale=en&layout=compact&show_icons=true&theme=algolia&border_radius=20)
   
-  [![Tasnuba106's GitHub stats](https://stats.quine.sh/Tasnuba106/github)](https://quine.sh)
+  [![Tasnuba106's GitHub | Stats](https://stats.quine.sh/Tasnuba106/github?theme=dark&height="30")](https://quine.sh)
+
 
   </div>
 <!--  End Stats Cards -->
