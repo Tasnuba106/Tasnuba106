@@ -55,9 +55,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&border_radius=20&username=Tasnuba106" alt="stats graph" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&locale=en&layout=compact&show_icons=true&theme=algolia&border_radius=20" height="150"/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_public=true&theme=algolia&border_radius=20)
-   
-  [![Tasnuba106's GitHub | Stats](https://stats.quine.sh/Tasnuba106/github?theme=dark&height="30")](https://quine.sh)
+  <img src="https://streak-stats.demolab.com?user=Tasnuba106&count_public=true&theme=algolia&border_radius=20" height="170"/>
+  <br>
+  <img src="https://stats.quine.sh/Tasnuba106/github?theme=dark" height="290"/>
 
 
   </div>
