@@ -53,12 +53,13 @@
 
 <div class="stats" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&border_radius=20&username=Tasnuba106" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&border_radius=20&username=Tasnuba106" alt="stats graph" height="200"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&locale=en&layout=compact&show_icons=true&theme=algolia&border_radius=20" height="200" width="450"/>
+  
+  
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Tasnuba106&count_public=true&theme=algolia&border_radius=20)
-  
-  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasnuba106&locale=en&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-  
+   
   [![Tasnuba106's GitHub | Stats](https://stats.quine.sh/Tasnuba106/github?theme=dark&height="30")](https://quine.sh)
 
 
