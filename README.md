@@ -59,6 +59,7 @@
   <br>
   <img src="https://stats.quine.sh/Tasnuba106/github?theme=dark" height="290"/>
 
-
   </div>
 <!--  End Stats Cards -->
+
+ <img src="https://raw.githubusercontent.com/Tasnuba106/Tasnuba106/output/snake.svg" alt="Snake animation" />
