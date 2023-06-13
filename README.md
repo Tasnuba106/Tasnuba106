@@ -62,8 +62,4 @@
   </div>
 <!--  End Stats Cards -->
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tasnuba106/Tasnuba106/output/snake.svg" alt="Snake animation" />
-
-###
