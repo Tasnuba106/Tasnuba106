@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **nirjona48829@gmail.com**
+- 📫 How to reach me **tasnuba1060@gmail.com**
 
 <!--Connect-->
 
